@@ -1,1 +1,1 @@
-# adonai-parents-school
+# This site is live at https://freshteacher.tech/adonai-parents-school
